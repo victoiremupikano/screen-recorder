@@ -7,3 +7,5 @@ venv
 env# Editors
 .vscode/
 .idea/
+recording.wav
+recording
